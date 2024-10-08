@@ -1,0 +1,6 @@
+{
+    "skip": "Skip",
+    "@skip": {
+        "description": "The current Language"
+    }
+}
